@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoZin&theme=onedark" />
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FacundoZin&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
 </div>
 
 
