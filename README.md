@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 
 <img src="https://streak-stats.demolab.com?user=FacundoZin&theme=onedark" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=onedark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoZin&theme=onedark" />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FacundoZin&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
-</div>
 
 </div>
 
