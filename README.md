@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ### 📊 Mis estadísticas
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacundoZin&show_icons=true&theme=onedark" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacundoZin&show_icons=true&theme=react-dark" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=onedark" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=react-dark" />
 
-<img src="https://streak-stats.demolab.com?user=FacundoZin&theme=onedark" />
+<img src="https://streak-stats.demolab.com?user=FacundoZin&theme=react-dark" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=onedark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=react-dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoZin&theme=onedark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoZin&theme=react-dark" />
 
 </div>
 
