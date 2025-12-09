@@ -14,22 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
 
 ### 📊 Mis estadísticas
 
-<a href="https://github.com/FacundoZin">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacundoZin&show_icons=true&theme=tokyonight" />
-</a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacundoZin&show_icons=true&theme=onedark" />
 
-<a href="https://github.com/FacundoZin">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=tokyonight" />
-</a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=onedark" />
 
-<a href="https://github.com/FacundoZin">
-  <img src="https://streak-stats.demolab.com?user=FacundoZin&theme=tokyonight" />
-</a>
+<img src="https://streak-stats.demolab.com?user=FacundoZin&theme=onedark" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=react-dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoZin&theme=onedark" />
 
 </div>
+
 
