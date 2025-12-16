@@ -1,19 +1,10 @@
-## Hi there 👋
-
-<!--
-**FacundoZin/FacundoZin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ Hi there 👋
+ 
 - 🔭 I’m currently working on Syntrax software 
-- 🌱 I’m currently learning a bit offrontend 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about systems design, design patterns, and distributed systems.
+- 👯 I’m looking to collaborate in the development of programming tools.
+- 🤔 I'm looking for help with a big project.
+  
 <div align="center">
 
 ### 📊 Mis estadísticas
