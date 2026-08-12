@@ -9,9 +9,9 @@
 
 ### 📊 Mis estadísticas
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacundoZin&show_icons=true&theme=onedark" />
+<img height="180em" src="https://githubstats-livid.vercel.app/api?username=FacundoZin&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=onedark" />
+<img height="180em" src="https://githubstats-livid.vercel.app/api/top-langs/?username=FacundoZin&layout=compact&theme=onedark&hide_border=true&bg_color=00000000" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FacundoZin&theme=react-dark" />
 
